@@ -64,14 +64,14 @@ For both diagnosis and survival prediction, optimal hyperparameters are determin
 
 To aid comparison, F1 scores among various models (Random Forest, SVM, Logistic Regression, and Decision Tree) are visualized through a side-by-side bar plot.
 
-![Model Comparison](https://github.com/ACM40960/project-DeekshaLokesh331/blob/main/image3.png)
+![Model Comparison](https://github.com/ACM40960/project-DeekshaLokesh331/blob/main/image2.png)
 Figure 3: F1 score comparison for all the models 
 
 ### 5. Final Model Tuning and Prediction
 
 Following hyperparameter identification, final models are trained and tested using these parameters. Predictions are then generated on test data, accompanied by actual vs. predicted counts and a confusion matrix for model assessment.
 
-![Final Model Tuning and Prediction](https://github.com/ACM40960/project-DeekshaLokesh331/blob/main/image2.png)
+![Final Model Tuning and Prediction](https://github.com/ACM40960/project-DeekshaLokesh331/blob/main/image3.png)
 Figure 4: Model metric for Diagnosis after tuning
   
 ### 6. Prediction Sample
